@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: com.refactor.practice.CustomerTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.266 s <<< FAILURE! - in com.refactor.practice.CustomerTest
+shouldGetStatementOfRentals(com.refactor.practice.CustomerTest)  Time elapsed: 0.167 s  <<< FAILURE!
+org.junit.ComparisonFailure: 
+expected:<...d is 14.0
+You earned[]4 frequent renter po...> but was:<...d is 14.0
+You earned[ ]4 frequent renter po...>
+	at com.refactor.practice.CustomerTest.shouldGetStatementOfRentals(CustomerTest.java:34)
+
